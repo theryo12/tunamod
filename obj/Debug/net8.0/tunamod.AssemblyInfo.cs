@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tunamod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaa8be6066a6f3f78316524656fe337460b854cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("tunamod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tunamod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
