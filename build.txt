@@ -1,0 +1,3 @@
+displayName = TunaMod: UOPTIMIZE
+author = ryo
+version = 0.1

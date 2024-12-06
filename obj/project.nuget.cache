@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QCt+DQi8iOc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stanislav\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tunamod\\tunamod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stanislav\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
